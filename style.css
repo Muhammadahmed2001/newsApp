@@ -1,1 +1,10 @@
 
+.container{
+    margin-top: 30px;
+}
+body{
+    background-color:rgb(41, 141, 141) !important;
+}
+.bg-nav{
+    background-color: rgba(73, 165, 165, 0.952);
+}
